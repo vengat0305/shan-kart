@@ -1,0 +1,29 @@
+.productItem {
+  /* border: 2px solid rgb(245, 245, 245); */
+  padding: 5px;
+  margin: 20px 0px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 2px 0px rgb(239, 239, 239);
+  cursor: pointer;
+}
+
+.productInfo h3 {
+  font-size: 1.2rem;
+  color: var(--pimary-color);
+  font-weight: 600;
+  margin-top: 15px;
+}
+.productCardBottom .price {
+  color: var(--pimary-color);
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  font-family: "Kalnia", serif;
+}
+.productCardBottom span i {
+  font-size: 1.2rem;
+  padding: 5px;
+  background: var(--primary-color);
+  color: white;
+  border-radius: 5px;
+}

@@ -1,0 +1,83 @@
+import React from "react";
+import { NavLink } from "react-router-dom";
+import "./header.css";
+import { motion } from "framer-motion";
+import logo from "../../assets/images/eco-logo.png";
+import userIcon from "../../assets/images/user-icon.png";
+import { Container, Row } from "reactstrap";
+
+const nav__links = [
+  {
+    path: "home",
+    display: "Home",
+  },
+  {
+    path: "shop",
+    display: "Shop",
+  },
+  {
+    path: "cart",
+    display: "Cart",
+  },
+];
+
+const Header = () => {
+  return (
+    <header className="header">
+      <Container>
+        <Row>
+          <div className="navWrapper">
+            <div className="logo">
+              <img src={logo} alt="logo" />
+              <div>
+                <h1>Shopyfy</h1>
+                {/* <p>Since 1997</p> */}
+              </div>
+            </div>
+            <div className="navigation">
+              <ul className="menu">
+                {nav__links.map((item, index) => (
+                  <li className="navItem" key={index}>
+                    <NavLink
+                      to={item.path}
+                      className={(navClass) =>
+                        navClass.isActive ? "nav__active" : ""
+                      }
+                    >
+                      {item.display}
+                    </NavLink>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="navIcons">
+              <span className="favIcon">
+                <i class="ri-heart-line"></i>
+                <span className="badge">1</span>
+              </span>
+              <span className="cartIcon">
+                <i class="ri-shopping-bag-line"></i>
+                <span className="badge">1</span>
+              </span>
+              <span>
+                <motion.img
+                  whileTap={{ scale: 1.2 }}
+                  src={userIcon}
+                  alt="user_icon"
+                />
+                {/* <i  class="ri-user-fill"></i> */}
+              </span>
+            </div>
+            <div className="mobileMenu">
+              <span>
+                <i class="ri-menu-line"></i>
+              </span>
+            </div>
+          </div>
+        </Row>
+      </Container>
+    </header>
+  );
+};
+
+export default Header;

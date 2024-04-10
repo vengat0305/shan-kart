@@ -1,0 +1,45 @@
+.heroSection {
+  background-color: rgb(255, 255, 255);
+}
+.heroContent h2 {
+  font-family: "Kalnia", serif;
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 20px 0px;
+}
+.heroContent p {
+  color: rgb(123, 123, 123);
+  line-height: 1.5rem;
+  font-weight: 350;
+}
+.heroSection p:nth-child(1) {
+  font-weight: 500;
+}
+.buyBtn {
+  /* border: none; */
+  outline: none;
+  border: 2px solid var(--primary-color);
+  padding: 10px 25px;
+  border-radius: 5px;
+  background-color: var(--primary-color);
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin: 20px 0px;
+  /* transition: 1s; */
+}
+.buyBtn:hover {
+  background-color: rgb(255, 255, 255);
+  color: var(--primary-color);
+  border: 2px solid rgb(201, 201, 201);
+  /* transition: 1s; */
+}
+.buyBtn i {
+  font-weight: 100;
+  font-size: 25px;
+}
+.heroSection .heroContent {
+  padding-top: 55px;
+}
