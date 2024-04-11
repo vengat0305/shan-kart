@@ -1,0 +1,49 @@
+.footer {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: var(--primary-color);
+}
+.footerPara {
+  line-height: 30px;
+  color: rgb(203, 203, 203);
+}
+.footerSocialIcon i {
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+  border: 1px solid white;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.footerLinks ul li {
+  background: transparent !important;
+}
+
+.footerLinks ul li a {
+  color: rgb(203, 203, 203);
+}
+
+.linksTitle {
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
+  font-weight: 500;
+  border-left: 1px solid white;
+  padding: 5px;
+  border-radius: 20px;
+  letter-spacing: 0.1rem;
+}
+
+.footerLinks p {
+  color: rgb(203, 203, 203);
+}
+
+.footerCopyRight {
+  border-left: 1px solid white;
+  padding: 5px;
+  margin-top: 50px;
+  color: rgb(203, 203, 203);
+  border-radius: 20px;
+}

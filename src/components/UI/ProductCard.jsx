@@ -5,7 +5,7 @@ import { Col } from "reactstrap";
 import { Link } from "react-router-dom";
 const ProductCard = ({ item }) => {
   return (
-    <Col lg="3" md="4">
+    <Col lg="3" md="4" className="mb-2">
       <div className="productItem">
         <div className="productImg">
           <motion.img whileHover={{ scale: 0.9 }} src={item.imgUrl} alt="img" />
