@@ -90,5 +90,7 @@
   .heroContent p {
     font-size: 1rem;
   }
-  
+  .counterImage {
+    display: none;
+  }
 }
