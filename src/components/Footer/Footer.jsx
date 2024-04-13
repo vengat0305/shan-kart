@@ -34,7 +34,7 @@ const Footer = () => {
               best sellers, recent blog posts, or customer reviews to encourage
               further exploration and increase sales.
             </p>
-            <Col lg="3">
+            <Col lg="4">
               <div className="footerSocialIcon">
                 <i class="fa-brands fa-instagram"></i>
                 <i class="fa-brands fa-facebook"></i>
