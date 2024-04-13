@@ -36,7 +36,7 @@ const Clock = () => {
   });
   return (
     <div
-      className="clockWrapper d-flex align-items-center gap-3 "
+      className="clockWrapper d-flex align-items-center gap-3  "
       style={{ fontFamily: "Kalnia" }}
     >
       <div className="clockData d-flex align-items-center gap-3 ">

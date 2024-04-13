@@ -134,7 +134,7 @@ const Home = () => {
       <section className="timerCount">
         <Container>
           <Row>
-            <Col lg="6" md="6">
+            <Col lg="6" md="6" sm="6">
               <div className="clockTopContent">
                 <h4 className="text-white fs-6">Limited Offer !</h4>
                 <h3 className="text-white fs-5 mb-3 ">Quality ArmChair</h3>
@@ -147,7 +147,7 @@ const Home = () => {
                 <Link to="/shop">Visit Store</Link>
               </motion.button>
             </Col>
-            <Col lg="6" md="6" className="text-end">
+            <Col lg="6" md="6" sm="6" className="text-end">
               <img src={countImage} alt="img" />
             </Col>
           </Row>

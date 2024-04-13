@@ -81,13 +81,16 @@ const Header = () => {
                 <i class="ri-shopping-bag-line"></i>
                 <span className="badge">1</span>
               </span>
-              <span>
-                <motion.img
+              <span className="userIconFawes">
+                {/* <motion.img
                   whileTap={{ scale: 1.2 }}
                   src={userIcon}
                   alt="user_icon"
-                />
-                {/* <i  class="ri-user-fill"></i> */}
+                /> */}
+                <motion.i
+                  whileTap={{ scale: 1.2 }}
+                  class="ri-user-fill  "
+                ></motion.i>
               </span>
               <div className="mobileMenu">
                 <span onClick={menuToggle}>

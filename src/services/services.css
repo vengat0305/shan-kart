@@ -28,3 +28,32 @@
   font-size: 0.9rem;
   margin-top: 5px;
 }
+
+@media only screen and (max-width: 992px) {
+  .servicesItem span i {
+    font-size: 2rem;
+    padding: 5px;
+  }
+  .servicesItem h3 {
+    font-size: 1rem;
+  }
+  .servicesItem {
+    padding: 15px;
+    margin-bottom: 1.5rem;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .servicesItem span i {
+    font-size: 1.5rem;
+    padding: 5px;
+  }
+  .servicesItem h3 {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .servicesItem {
+    padding: 20px;
+  }
+}
