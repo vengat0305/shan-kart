@@ -38,7 +38,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.7,
@@ -57,7 +57,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -80,7 +80,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -102,7 +102,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -124,7 +124,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -147,7 +147,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -170,7 +170,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -192,7 +192,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -215,7 +215,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -238,7 +238,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -261,7 +261,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -284,7 +284,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -306,7 +306,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.6,
@@ -328,7 +328,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -351,7 +351,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -374,7 +374,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -397,7 +397,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -420,7 +420,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -443,7 +443,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -466,7 +466,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -489,7 +489,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -512,7 +512,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -535,7 +535,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,
@@ -558,7 +558,7 @@ const products = [
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Our product line offers a diverse range to cater to various needs. From cutting-edge tech gadgets like smartwatches and wireless earbuds to stylish fashion accessories, we've got you covered. Our health and wellness products promote a balanced lifestyle, including fitness trackers and nutrition supplements. For home essentials, choose from our eco-friendly cleaning solutions and innovative kitchen gadgets. Additionally, we offer high-quality beauty and skincare products to enhance your natural radiance. Whether you're looking to upgrade your tech collection, improve your health, or enhance your daily routines, our products combine functionality with style to meet your expectations",
     reviews: [
       {
         rating: 4.8,

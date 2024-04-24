@@ -1,0 +1,16 @@
+.commonSection {
+  background: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.562)),
+    url("../assets/images/shop-bg.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 150px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.commonSection h1 {
+  color: white;
+  font-weight: 600;
+  font-family: "Kalnia", serif;
+  letter-spacing: 0.2rem;
+}

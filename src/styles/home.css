@@ -93,4 +93,10 @@
   .counterImage {
     display: none;
   }
+  .buyBtn{
+    padding: 5px 15px;
+  }
+  section .sectionTitle{
+    font-size: 22px;
+  }
 }

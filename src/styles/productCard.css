@@ -1,9 +1,9 @@
 .productItem {
-  /* border: 2px solid rgb(245, 245, 245); */
+  /* border: 2px solid rgb(0, 0, 0); */
   padding: 5px;
   margin: 20px 0px;
   border-radius: 5px;
-  box-shadow: 0px 4px 2px 0px rgb(239, 239, 239);
+  box-shadow: 0px 2px 5px 0px rgb(221, 221, 221);
   cursor: pointer;
 }
 
@@ -15,17 +15,25 @@
 }
 .productCardBottom .price {
   color: var(--pimary-color);
-  font-size: 1.3rem;
-  font-weight: 600;
+  font-size: 1.2rem;
+  font-weight: 800;
   letter-spacing: 0.1rem;
-  font-family: "Kalnia", serif;
+  font-family: sans-serif;
+  background: rgb(225, 239, 255);
+  background: radial-gradient(
+    circle,
+    rgba(225, 239, 255, 1) 0%,
+    rgba(240, 247, 255, 0.962) 100%
+  );
+  padding: 4px 14px;
+  border-radius: 5px;
 }
 .productCardBottom span i {
   font-size: 1.2rem;
-  padding: 5px;
+  padding: 6px;
   background: var(--primary-color);
   color: white;
-  border-radius: 5px;
+  border-radius: 30px;
 }
 @media only screen and (max-width: 992px) {
   .productInfo h3 a {

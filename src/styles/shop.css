@@ -1,0 +1,40 @@
+.filterWidget select {
+  padding: 13px 60px;
+  border: 2px solid var(--primary-color);
+  cursor: pointer;
+  border-radius: 5px;
+  background: var(--primary-color);
+  color: white;
+  box-shadow: 0px 2px 15px rgb(209, 209, 209);
+  letter-spacing: 0.1rem;
+}
+.filterWidget select:focus {
+  outline: none !important;
+  /* margin-bottom: 50px; */
+}
+.filterWidget select option {
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+}
+.searchBox {
+  width: 100%;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--primary-color);
+  border-radius: 5px;
+  padding: 12px;
+  padding-left: 2px;
+  cursor: pointer;
+}
+.searchBox input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 8px 10px;
+}
+
+.searchBox span {
+  color: var(--primary-color);
+}

@@ -40,9 +40,9 @@
   color: var(--primary-color);
   font-weight: 500;
   cursor: pointer;
-  border-left: 4px solid var(--primary-color);
+  /* border-left: 4px solid var(--primary-color);
   padding: 7px;
-  border-radius: 50px;
+  border-radius: 50px; */
 }
 
 .navIcons {
@@ -110,12 +110,13 @@
   left: 0;
   z-index: 999;
   box-shadow: 3px 3px 8px -3px #ddd;
-  background: rgb(225, 239, 255);
+  /* background: rgb(225, 239, 255);
   background: radial-gradient(
     circle,
     rgba(225, 239, 255, 1) 0%,
-    rgba(219, 235, 255, 0.9615384615384616) 100%
-  );
+    rgba(240, 247, 255, 0.962) 100%
+  ); */
+  background-color: rgb(240, 248, 255);
 }
 
 @media only screen and (max-width: 768px) {
