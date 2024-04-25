@@ -14,3 +14,11 @@
   font-family: "Kalnia", serif;
   letter-spacing: 0.2rem;
 }
+@media only screen and (max-width: 768px) {
+  .commonSection {
+    padding: 70px 0px;
+  }
+  .commonSection h1 {
+    font-size: 1.4rem;
+  }
+}

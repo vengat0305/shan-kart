@@ -68,20 +68,20 @@ const Shop = () => {
       <section>
         <Container>
           <Row>
-            <Col lg="3" md="3">
+            <Col lg="3" md="6">
               <div className="filterWidget">
                 <select onClick={handleFilter}>
                   <option>Filter by Category</option>
                   <option value="sofa">Sofa</option>
-                  <option value="mobile">Mobile</option>
+                  <option value="mobile">Iphone</option>
                   <option value="chair">Chair</option>
                   <option value="watch">Watch</option>
                   <option value="wireless">Wireless</option>
                 </select>
               </div>
             </Col>
-            <Col lg="3" md="3">
-              <div className="filterWidget">
+            <Col lg="3" md="6" className="text-end">
+              <div className="filterWidget ">
                 <select>
                   <option>Sort by </option>
                   <option value="ascending">Ascending</option>
@@ -89,7 +89,7 @@ const Shop = () => {
                 </select>
               </div>
             </Col>
-            <Col lg="6" md="6">
+            <Col lg="6" md="12">
               <div className="searchBox">
                 <input
                   type="text"
